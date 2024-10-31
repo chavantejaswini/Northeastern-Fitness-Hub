@@ -2,6 +2,8 @@
 
 Welcome to the Northeastern Fitness Hub repository! This project aims to enhance student well-being by providing an integrated platform for health, dietary management, and fitness services at Northeastern University.
 
+<img width="1466" alt="Home" src="https://github.com/Home.png">
+
 **Problem Statement**
 Students at Northeastern University face challenges in maintaining optimal health and well-being due to fragmented service delivery across various domains such as diet, health, and fitness. There is a pressing need for an integrated solution that can cater to the diverse needs of the student community.
 
